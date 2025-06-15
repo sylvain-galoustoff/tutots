@@ -23,7 +23,6 @@ function App() {
         id="second-number"
         onChange={(e) => setSecondNumber(e.target.value)}
       />{" "}
-      = {result}
     </>
   );
 }
